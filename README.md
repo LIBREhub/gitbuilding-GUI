@@ -14,5 +14,7 @@ Desktop user interface for [Gitbuilding](https://gitbuilding.io/) open source ap
 Gitbuilding GUI uses the [electronJS](https://www.electronjs.org/es/) library, in order for the app to run locally you'll need both [nodeJS](https://nodejs.org/en) and [gitbuilding](https://gitbuilding.io/install) installed.
 
 1.- Clone this repository
+
 2.- Run `npm install` 
+
 3.- Run `npm run start` to start gitbuilding-GUI app
