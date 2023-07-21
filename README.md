@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS NOT INTEGRATED INTO GITBUILDING ON GITLAB AND NO LONGER MAINTAINED
+https://gitlab.com/gitbuilding/gitbuilding
+
 # Gitbuilding GUI
 ![gitbuilding](https://img.shields.io/badge/gitbuilding-0.11.0-orange) ![version](https://img.shields.io/badge/version-1.0.0-brightgreen) ![electron](https://img.shields.io/badge/electron-24.1.3-blue)
 
