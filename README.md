@@ -1,4 +1,4 @@
-### This repository is now integrated into GitBuilding on Gitlab and no longer maintained
+### This repository is now integrated into Gitbuilding on Gitlab and no longer maintained
 https://gitlab.com/gitbuilding/gitbuilding
 
 # Gitbuilding GUI
